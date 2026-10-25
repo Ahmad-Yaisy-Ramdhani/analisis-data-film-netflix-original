@@ -27,7 +27,13 @@ Analisis dilakukan menggunakan Python dengan bantuan Pandas untuk pengolahan dat
 
 Dataset yang digunakan adalah **Netflix Original Films & IMDb Scores**, yang berisi informasi mengenai film Netflix Original.
 
-Kolom utama yang digunakan meliputi:
+- Nama dataset: Netflix Original Films & IMDb Scores
+- Sumber: Kaggle
+- Link: https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores?select=NetflixOriginals.csv
+- Format: CSV
+- Jumlah data awal: 584 baris dan 6 kolom
+
+Kolom utama yang digunakan meliputi: 
 
 - `Title`: Judul film.
 - `Genre`: Genre film.
