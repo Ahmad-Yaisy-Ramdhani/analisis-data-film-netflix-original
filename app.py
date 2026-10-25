@@ -94,7 +94,7 @@ st.markdown("""
 # ---------------------------------------------------------
 @st.cache_data
 def load_and_clean_data():
-    df = pd.read_csv("../data/netflix_clean.csv")
+    df = pd.read_csv("data/netflix_clean.csv")
     df["Premiere"] = df["Premiere"].str.replace(r"(\d{1,2})\.\s*(\d{4})", r"\1, \2", regex=True)
     df["Premiere"] = pd.to_datetime(df["Premiere"], errors="coerce")
     df["Year"] = df["Premiere"].dt.year.astype(int)

@@ -109,7 +109,33 @@ Berdasarkan hasil analisis, bahasa Inggris mendominasi penggunaan bahasa dalam d
 Hasil analisis ini memberikan gambaran mengenai karakteristik film dalam dataset. Namun, jumlah film, bahasa, dan skor IMDb belum cukup untuk menyimpulkan popularitas atau keberhasilan komersial suatu film tanpa data tambahan, seperti jumlah penonton dan pendapatan.
 
 ## Cara Menjalankan Proyek
-[BELUM DIISI]
+
+### 1. Clone Repository
+
+```bash
+git clone URL_REPOSITORY_KAMU
+cd netflix-original-films
+```
+
+### 2. Instal Library
+
+Pastikan Python sudah terpasang, kemudian jalankan:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Jalankan Notebook
+
+Buka folder `notebooks/` menggunakan Visual Studio Code atau Jupyter Notebook, kemudian jalankan cell secara berurutan.
+
+### 4. Jalankan Dashboard
+
+Jika dashboard Streamlit sudah tersedia, jalankan perintah berikut dari folder utama proyek:
+
+```bash
+streamlit run app.py
+```
 
 ## Penutup
 
