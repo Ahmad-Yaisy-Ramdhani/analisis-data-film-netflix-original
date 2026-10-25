@@ -62,7 +62,7 @@ Membuat tiga visualisasi berdasarkan pertanyaan bisnis yang telah ditentukan.
 
 #### Visualisasi 1: Bahasa Film Terbanyak
 
-Hasil analisis menunjukkan bahwa bahasa Inggris (*English*) merupakan bahasa yang paling banyak digunakan, dengan 401 film atau 68,66% dari total 584 film.
+Hasil analisis menunjukkan bahwa bahasa Inggris (*English*) merupakan bahasa yang paling banyak digunakan, dengan 401 film dari total 584 film.
 
 **Insight:** Bahasa Inggris mendominasi dataset film Netflix Original yang dianalisis.
 
@@ -78,7 +78,7 @@ Hasil analisis menemukan 17 film Netflix Original dengan skor IMDb minimal 8,0.
 
 #### Visualisasi 3: Genre Film Tahun 2020
 
-Genre *Documentary* menjadi genre yang paling banyak muncul pada tahun 2020, dengan 39 film dari total 183 film atau sekitar 21,31%.
+Genre *Documentary* menjadi genre yang paling banyak muncul pada tahun 2020, dengan 39 film dari total 183 film.
 
 **Insight:** Genre *Documentary* mendominasi jumlah film Netflix Original dalam dataset pada tahun 2020.
 
